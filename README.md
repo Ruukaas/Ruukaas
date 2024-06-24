@@ -30,7 +30,7 @@ class SobreMim extends Desenvolvedor {
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruukaas&repo=Urna-eletronica&theme=chartreuse-dark&show_icons=true)](https://github.com/Ruukaas/Urna-eletronica)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruukaas&repo=WhatChat&theme=chartreuse-dark&show_icons=true)](https://github.com/Ruukaas/WhatChat)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruukaas&repo=Pokedex&theme=chartreuse-dark&show_icons=true)](https://github.com/Ruukaas/Pokedex)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruukaas&repo=Genius&theme=chartreuse-dark&show_icons=true)](https://github.com/Ruukaas/Genius)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruukaas&repo=Genius&theme=chartreuse-dark&show_icons=false)](https://github.com/Ruukaas/Genius)
 
 # Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashca/)
